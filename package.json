@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://mun-dml.github.io/academic-portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
